@@ -6,7 +6,7 @@ import Hero from './Component/Hero/Hero'
 import Service from './Pages/Service/Service'
 import Panner from './Pages/panner/Panner'
 import Blogs from './Pages/Blogs/Blogs'
-import Footer from './Component/Footer/Footer.JSX'
+import Footer from './Component/Footer/Footer.jsx'
 
 
 function App() {
